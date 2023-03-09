@@ -7,7 +7,6 @@
  [![Lines of code](https://img.shields.io/tokei/lines/github/bshintak/NetPractice?color=blueviolet)](https://github.com/bshintak/NetPractice)
  [![Activity](https://img.shields.io/github/last-commit/bshintak/NetPractice?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/NetPractice)
  
- `Init game`
 <p align="left">
   <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/A_Network_Of_Networks.png />
 </p>
