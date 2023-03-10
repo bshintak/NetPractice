@@ -34,3 +34,15 @@ A host sends data through a network connection, which can be through an Ethernet
 - Data Centers: Data centers are large facilities that house many servers and other networking equipment. They are used to store, manage, and process large amounts of data and provide services to businesses and organizations.
 
 - Wireless Access Points: Wireless access points are devices that provide wireless connectivity to devices on a network. They are commonly used in homes, businesses, and public spaces to provide Wi-Fi access.
+
+`The Internet Protocol Suite`
+
+The Internet Protocol Suite, also known as the TCP/IP protocol suite, is a set of networking protocols used for communication between devices on the Internet. It was developed in the 1970s and consists of several protocols.
+
+- The Internet Protocol (IP) is the primary protocol of the Internet Protocol Suite. It provides the foundation for network communication and is responsible for routing data packets across the network. IP ensures that each data packet is delivered to its destination and identifies each device on the network through its IP address.
+
+- The Transmission Control Protocol (TCP) is another important protocol in the Internet Protocol Suite. It is used to ensure reliable delivery of data and to control the flow of data between devices on the network. TCP establishes a communication connection between devices, enabling bidirectional data transmission.
+
+- The User Datagram Protocol (UDP) is another protocol that is part of the Internet Protocol Suite. It is used for the transmission of data that does not require the reliability provided by TCP. UDP is faster and more efficient than TCP but does not guarantee data delivery or flow control.
+
+- Other application-layer protocols, such as the File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), and Internet Message Access Protocol (IMAP), are also part of the Internet Protocol Suite.
