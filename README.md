@@ -15,6 +15,7 @@
 
 Refers to any device or computer that is connected to the network and has an Internet Protocol (IP) address. We can divide hosts into two categories: clients and servers. A client is often a desktop or laptop computer, a smartphone, a video game console, or, with the emergence of the Internet of Things, a smart baby monitor, a seismic or animal habitat surveillance system, a smartwatch, etc. A server is a much more powerful machine that stores and distributes web pages, streams videos, transfers email, etc.
 
+
 `The Physical Components of the Internet`
 
 - Network Cables: Network cables are used to connect devices to each other and to the internet. The most common types of network cables are Ethernet cables, which use twisted pair wires to transmit data at high speeds.
