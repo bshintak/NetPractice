@@ -57,6 +57,18 @@ Internet’s architectural model is organized in a stack of protocols composed o
 
 - Application layer: This layer is responsible for providing network services to end-user applications. Examples of protocols in this layer include HTTP, FTP, SMTP, and DNS.
 
+Application  |  Protocol(s)  |
+---|------|
+Request and transfer Web pages | HTTP, HTTPS  |
+File transfer	 | FTP  |
+Email transfer and access	 | SMTP, IMAP  |
+Shell remote access with secure connection	 | SSH  |
+Instant message transfer	 | IRC, XMPP  |
+Clock synchronization to local time	 | NTP  |
+Internet domain name translation into IP address	 | DNS  |
+Streaming audio/video	 | RMTP, HLS, SRT  |
+Peer-to-peer file sharing	 | BitTorrent, eDonkey  |
+
 - Transport layer: This layer is responsible for providing reliable data transfer between applications running on different hosts. The most common transport layer protocols are TCP and UDP.
 
 - Network layer: This layer is responsible for providing routing and addressing functions that enable packets to be routed between hosts on different networks. The Internet Protocol (IP) is the primary protocol used in this layer.
