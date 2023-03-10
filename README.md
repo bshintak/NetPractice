@@ -50,3 +50,17 @@ The Internet Protocol Suite, also known as the TCP/IP protocol suite, is a set o
 <p align="left">
   <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png />
 </p>
+
+`The Layers of the Internet Model`
+
+Internet’s architectural model is organized in a stack of protocols composed of 5 distinct layers: the application layer, the transport layer, the network layer, the link layer, and finally the physical layer.
+
+- Application layer: This layer is responsible for providing network services to end-user applications. Examples of protocols in this layer include HTTP, FTP, SMTP, and DNS.
+
+- Transport layer: This layer is responsible for providing reliable data transfer between applications running on different hosts. The most common transport layer protocols are TCP and UDP.
+
+- Network layer: This layer is responsible for providing routing and addressing functions that enable packets to be routed between hosts on different networks. The Internet Protocol (IP) is the primary protocol used in this layer.
+
+- Link layer: This layer is responsible for providing a way to transmit data over a physical network. It includes protocols such as Ethernet and Wi-Fi.
+
+- Physical layer: This layer is responsible for the actual transmission of data over the physical medium, such as copper wires, fiber optic cables, or wireless signals.
