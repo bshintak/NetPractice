@@ -71,7 +71,11 @@ Peer-to-peer file sharing	 | BitTorrent, eDonkey  |
 
 - Transport layer: This layer is responsible for providing reliable data transfer between applications running on different hosts. The most common transport layer protocols are TCP and UDP.
 
-- Network layer: This layer is responsible for providing routing and addressing functions that enable packets to be routed between hosts on different networks. The Internet Protocol (IP) is the primary protocol used in this layer.
+- Network layer: This layer is responsible for providing routing and addressing functions that enable packets to be routed between hosts on different networks. The Internet Protocol (IP) is the primary protocol used in this layer. IP, the “Internet Protocol” by definition, naturally dominates the protocols in the Internet’s network layer. This protocol is unrivaled and all of the hosts that have a network layer must run it if they wish to be connected to the Internet. IP defines the network-layer datagram and the IP addresses that uniquely identify every connected host. There are two major versions of IP: IPv4 and IPv6. 
+
+IPv4 (Internet Protocol version 4) is the older version of IP and was the first version to be widely adopted on the Internet. IPv4 uses 32-bit addresses, which allows for a total of around 4.3 billion unique IP addresses. However, with the explosive growth of the Internet, the number of available IPv4 addresses quickly ran out.
+
+To overcome this problem, IPv6 (Internet Protocol version 6) was developed. IPv6 uses 128-bit addresses, which allows for almost an unlimited number of unique IP addresses - more than 340 undecillion addresses, to be more precise. Additionally, IPv6 offers other improvements over IPv4, including better security, scalability, and support for new network features.
 
 - Link layer: This layer is responsible for providing a way to transmit data over a physical network. It includes protocols such as Ethernet and Wi-Fi.
 
