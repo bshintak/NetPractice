@@ -46,3 +46,7 @@ The Internet Protocol Suite, also known as the TCP/IP protocol suite, is a set o
 - The User Datagram Protocol (UDP) is another protocol that is part of the Internet Protocol Suite. It is used for the transmission of data that does not require the reliability provided by TCP. UDP is faster and more efficient than TCP but does not guarantee data delivery or flow control.
 
 - Other application-layer protocols, such as the File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), and Internet Message Access Protocol (IMAP), are also part of the Internet Protocol Suite.
+
+<p align="left">
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png />
+</p>
