@@ -82,3 +82,20 @@ To overcome this problem, IPv6 (Internet Protocol version 6) was developed. IPv6
 - Link layer: This layer is responsible for providing a way to transmit data over a physical network. It includes protocols such as Ethernet and Wi-Fi.
 
 - Physical layer: This layer is responsible for the actual transmission of data over the physical medium, such as copper wires, fiber optic cables, or wireless signals.
+
+`Subnet Mask`
+
+The subnet mask is used by the TCP/IP protocol to determine whether a host is on the local subnet or on a remote network.
+In TCP/IP, the parts of the IP address that are used as the network and host addresses aren't fixed. Unless you have more information, the network and host addresses above can't be determined. This information is supplied in another 32-bit number called a subnet mask. The subnet mask is 255.255.255.0 in this example. It isn't obvious what this number means unless you know 255 in binary notation equals 11111111. So, the subnet mask is 11111111.11111111.11111111.00000000.
+
+Lining up the IP address and the subnet mask together, the network, and host portions of the address can be separated:
+
+11000000.10101000.01111011.10000100 - IP address (192.168.123.132)
+11111111.11111111.11111111.00000000 - Subnet mask (255.255.255.0)
+
+Almost all decimal subnet masks convert to binary numbers that are all ones on the left and all zeros on the right. Some other common subnet masks are:
+
+Decimal  |  Binary  |
+---|------|
+255.255.255.192 | 	1111111.11111111.1111111.11000000  |
+255.255.255.224 | 1111111.11111111.1111111.11100000  |
