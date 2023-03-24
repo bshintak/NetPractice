@@ -19,6 +19,8 @@ Refers to any device or computer that is connected to the network and has an Int
 
 A host sends data through a network connection, which can be through an Ethernet cable, Wi-Fi connection, or other network technology. The host uses a communication protocol, such as Transmission Control Protocol/Internet Protocol (TCP/IP), to break down the data into packets and send those packets through the network to the correct recipient. In summary, a host sends data by breaking it down into packets and sending them through the network, where they are routed to the correct recipient.
 
+An IP address has two parts. If you take the example 192.168.123.132 and divide it into these two parts, you get 192.168.123. Network .132 Host or 192.168.123.0 - network address. 0.0.0.132 - host address.
+
 `The Physical Components of the Internet`
 
 - Network Cables: Network cables are used to connect devices to each other and to the internet. The most common types of network cables are Ethernet cables, which use twisted pair wires to transmit data at high speeds.
