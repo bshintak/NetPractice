@@ -99,3 +99,10 @@ Decimal  |  Binary  |
 ---|------|
 255.255.255.192 | 	1111111.11111111.1111111.11000000  |
 255.255.255.224 | 1111111.11111111.1111111.11100000  |
+
+Links:
+
+https://www.valuehost.com.br/blog/o-que-e-um-servidor-dns/
+https://andreysmith.wordpress.com/2011/01/02/three-way-handshake/
+https://kinsta.com/pt/base-de-conhecimento/o-que-e-uma-solicitacao-http/
+https://www.avg.com/pt/signal/ipv4-vs-ipv6
