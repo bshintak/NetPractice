@@ -102,8 +102,8 @@ Decimal  |  Binary  |
 
 Links:
 
-https://www.valuehost.com.br/blog/o-que-e-um-servidor-dns/
-https://andreysmith.wordpress.com/2011/01/02/three-way-handshake/
-https://kinsta.com/pt/base-de-conhecimento/o-que-e-uma-solicitacao-http/
-https://www.avg.com/pt/signal/ipv4-vs-ipv6
-https://www.freecodecamp.org/portuguese/news/ficha-informativa-de-sub-redes-mascara-de-sub-rede-24-30-26-27-29/
+https://www.valuehost.com.br/blog/o-que-e-um-servidor-dns/</br>
+https://andreysmith.wordpress.com/2011/01/02/three-way-handshake/</br>
+https://kinsta.com/pt/base-de-conhecimento/o-que-e-uma-solicitacao-http/</br>
+https://www.avg.com/pt/signal/ipv4-vs-ipv6</br>
+https://www.freecodecamp.org/portuguese/news/ficha-informativa-de-sub-redes-mascara-de-sub-rede-24-30-26-27-29/</br>
