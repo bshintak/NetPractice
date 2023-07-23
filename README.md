@@ -25,9 +25,11 @@ An IP address has two parts. If you take the example 192.168.123.132 and divide 
 
 - Network Cables: Network cables are used to connect devices to each other and to the internet. The most common types of network cables are Ethernet cables, which use twisted pair wires to transmit data at high speeds.
 
-- Switches: Switches are devices that connect multiple devices to a network and allow them to communicate with each other. They help to direct data packets to the correct destination.
+- `Switches:` A switch connects multiple devices together in a single network. Unlike a router, the switch does not have any interfaces since it only distributes packets to its local network, and cannot talk directly to a network outside of its own.
 
-- Routers: Routers are devices that connect multiple networks together, such as a home network to the internet. They help to route data packets between networks and ensure that data is delivered to the correct destination.
+- `Routers:` Just as the switch connects multiple devices on a single network, the router connects multiple networks together. The router has an interface for each network it connects to.
+
+Since the router separates different networks, the range of possible IP addresses on one of its interfaces must not overlap with the range of its other interfaces. An overlap in the IP address range would imply that the interfaces are on the same network.
 
 - Modems: Modems are devices that connect a home or business network to the internet. They convert digital data from the network into analog signals that can be transmitted over phone or cable lines.
 
