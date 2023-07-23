@@ -8,7 +8,7 @@
  [![Activity](https://img.shields.io/github/last-commit/bshintak/NetPractice?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/NetPractice)
  
 <p align="left">
-  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/A_Network_Of_Networks.png />
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/A_Network_Of_Networks.png height="150" alt="A_Network_Of_Networks"/>
 </p>
 
 `Host`
@@ -173,7 +173,7 @@ Therefore, our real IP range becomes `104.198.241.1 - 104.198.241.126`, which co
 
 </br>
 <p align="left">
-  <img src="https://github.com/bshintak/NetPractice/main/routing_table1.png?raw=true" height=150 alt="Routing Table">
+  <img src="https://github.com/bshintak/NetPractice/main/Routing_Table.png?raw=true" height=150 alt="Routing Table">
 </p>
 </br>
 
