@@ -52,7 +52,7 @@ The Internet Protocol Suite, also known as the TCP/IP protocol suite, is a set o
 - Other application-layer protocols, such as the File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), and Internet Message Access Protocol (IMAP), are also part of the Internet Protocol Suite.
 
 <p align="left">
-  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png />
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png height=150 alt="Internet Protocol Layers"/>
 </p>
 
 `The Layers of the Internet Model`
@@ -170,6 +170,19 @@ To get the range of possible IP addresses for our network, we add the range of h
 Therefore, our real IP range becomes `104.198.241.1 - 104.198.241.126`, which could have been found using an [IP calculator](https://www.calculator.net/ip-subnet-calculator.html).
 </br>
 </br>
+
+</br>
+<p align="left">
+  <img src="https://github.com/bshintak/NetPractice/main/routing_table1.png?raw=true" height=150 alt="Routing Table">
+</p>
+</br>
+
+A routing table is a data table stored in a router or a network host that lists the routes to particular network destinations. In NetPractice, the routing table consists of 2 elements:
+
+- **Destination**: The destination specifies a network address on which a host is the end target of the packets. The route of `default` or `0.0.0.0/0`, is the route that takes effect when no other route is available for an IP destination address. The default route will use the next-hop address to send the packets on their way without giving a specific destination. The default route will match any network.
+
+- **Next hop**: The next hop refers to the next closest router a packet can go through. It is the IP address of the next router on the packet's way. Every single router maintains its routing table with a next hop address.
+
 
 `Links:`
 
