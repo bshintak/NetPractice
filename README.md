@@ -19,7 +19,7 @@ Refers to any device or computer that is connected to the network and has an Int
 
 A host sends data through a network connection, which can be through an Ethernet cable, Wi-Fi connection, or other network technology. The host uses a communication protocol, such as Transmission Control Protocol/Internet Protocol (TCP/IP), to break down the data into packets and send those packets through the network to the correct recipient. In summary, a host sends data by breaking it down into packets and sending them through the network, where they are routed to the correct recipient.
 
-An IP address has two parts. If you take the example 192.168.123.132 and divide it into these two parts, you get 192.168.123. Network .132 Host or 192.168.123.0 - network address. 0.0.0.132 - host address.
+An IP address has two parts. If you take the example 192.168.123.132 and divide it into these two parts, you get `192.168.123`. Network .132 Host or 192.168.123.0 - network address. 0.0.0.132 - host address.
 
 `The Physical Components of the Internet`
 
@@ -90,8 +90,8 @@ In TCP/IP, the parts of the IP address that are used as the network and host add
 
 Lining up the IP address and the subnet mask together, the network, and host portions of the address can be separated:
 
-11000000.10101000.01111011.10000100 - IP address (192.168.123.132)
-11111111.11111111.11111111.00000000 - Subnet mask (255.255.255.0)
+11000000.10101000.01111011.10000100 - IP address (192.168.123.132)</br>
+11111111.11111111.11111111.00000000 - Subnet mask (255.255.255.0)</br>
 
 Almost all decimal subnet masks convert to binary numbers that are all ones on the left and all zeros on the right. Some other common subnet masks are:
 
@@ -103,10 +103,10 @@ Decimal  |  Binary  |
 `Private IP Address:`
 
 ```
-192.168.0.0 – 192.168.255.255 (65,536 IP addresses)</br>
-172.16.0.0 – 172.31.255.255 (1,048,576 IP addresses)</br>
-10.0.0.0 – 10.255.255.255 (16,777,216 IP addresses)</br>
-(When a network is connected to the Internet, it cannot use an IP address from the reserved private IP addresses)</br>
+192.168.0.0 – 192.168.255.255 (65,536 IP addresses)
+172.16.0.0 – 172.31.255.255 (1,048,576 IP addresses)
+10.0.0.0 – 10.255.255.255 (16,777,216 IP addresses)
+(When a network is connected to the Internet, it cannot use an IP address from the reserved private IP addresses)
 ```
 
 `Finding the network address`
