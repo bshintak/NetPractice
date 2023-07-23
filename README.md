@@ -109,7 +109,7 @@ Decimal  |  Binary  |
 (When a network is connected to the Internet, it cannot use an IP address from the reserved private IP addresses)</br>
 ```
 
-#### Finding the network address
+`Finding the network address`
 
 The _Interface A1_ above has the following properties:
 
@@ -140,7 +140,7 @@ Network address | 01101000.11000110.11110001.00000000
 Which translates to a network address of `104.198.241.0`.
 </br>
 
-#### Finding the range of host addresses
+ `Finding the range of host addresses`
 
 To determine what host addresses we can use on our network, we have to use the bits of our IP address dedicated to the host address. Let's use our previous IP address and mask:
 
