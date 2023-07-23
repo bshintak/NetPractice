@@ -100,7 +100,14 @@ Decimal  |  Binary  |
 255.255.255.192 | 	1111111.11111111.1111111.11000000  |
 255.255.255.224 | 1111111.11111111.1111111.11100000  |
 
-Links:
+`Private IP Address:`
+
+192.168.0.0 – 192.168.255.255 (65,536 IP addresses)</br>
+172.16.0.0 – 172.31.255.255 (1,048,576 IP addresses)</br>
+10.0.0.0 – 10.255.255.255 (16,777,216 IP addresses)</br>
+(When a network is connected to the Internet, it cannot use an IP address from the reserved private IP addresses)</br>
+
+`Links:`
 
 https://www.valuehost.com.br/blog/o-que-e-um-servidor-dns/</br>
 https://andreysmith.wordpress.com/2011/01/02/three-way-handshake/</br>
