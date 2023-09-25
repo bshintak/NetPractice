@@ -52,7 +52,7 @@ The Internet Protocol Suite, also known as the TCP/IP protocol suite, is a set o
 - Other application-layer protocols, such as the File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), and Internet Message Access Protocol (IMAP), are also part of the Internet Protocol Suite.
 
 <p align="left">
-  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png height=150 alt="Internet Protocol Layers"/>
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Internet_Protocol_Layers.png height="500" alt="Internet Protocol Layers"/>
 </p>
 
 `The Layers of the Internet Model`
