@@ -8,7 +8,7 @@
  [![Activity](https://img.shields.io/github/last-commit/bshintak/NetPractice?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/NetPractice)
  
 <p align="left">
-  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/A_Network_Of_Networks.png height="700" alt="A_Network_Of_Networks"/>
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/A_Network_Of_Networks.png height="500" alt="A_Network_Of_Networks"/>
 </p>
 
 `Host`
