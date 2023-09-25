@@ -170,11 +170,9 @@ To get the range of possible IP addresses for our network, we add the range of h
 Therefore, our real IP range becomes `104.198.241.1 - 104.198.241.126`, which could have been found using an [IP calculator](https://www.calculator.net/ip-subnet-calculator.html).
 </br>
 
-</br>
 <p align="left">
-  <img src="https://github.com/bshintak/NetPractice/main/Routing_Table.png?raw=true" height=500 alt="Routing Table">
+  <img src=https://raw.githubusercontent.com/bshintak/NetPractice/main/Routing_Table.png height="500" alt="Routing Table"/>
 </p>
-</br>
 
 A routing table is a data table stored in a router or a network host that lists the routes to particular network destinations. In NetPractice, the routing table consists of 2 elements:
 
